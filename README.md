@@ -7,23 +7,23 @@ Rockbuster is a global movie rental company that plans to launch an online renta
 Rockbuster provided the dataset for this analysis and the relational database includes the following tables. 
 
 ### Fact Tables
--Payment
--Rental
+* Payment
+* Rental
 
 ### Dimension Tables
--Actor
--Address
--Category
--City
--Country
--Customer
--Fim
--Film Actor
--Film Category
--Inventory
--Language
--Staff
--Store
+* Actor
+* Address
+* Category
+* City
+* Country
+* Customer
+* Fim
+* Film Actor
+* Film Category
+* Inventory
+* Language
+* Staff
+* Store
 
 The full analysis presented to the client, including data visualizations created with Tableau, is linked here for reference: 
 [Rockbuster - Movie Rental Analysis](https://coach-courses-us.s3.amazonaws.com/exercises/1054/58373/936dfd87c3f07e236518dd6fdf4f248b/Task-3.10_-Final.pdf)
