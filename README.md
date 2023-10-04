@@ -1,6 +1,6 @@
 # SQL Analysis - Rockbuster
 
-Rockbuster is a global movie rental company that plans to launch an online rental service to compete with streaming services such as Netflix and Amazon Prime. The objective of this analysis is to derive insights from Rockbusters customer and sales data and provide recommendations on how to establish the online rental service. 
+Rockbuster is a global movie rental company that plans to launch an online rental service to compete with streaming services such as Netflix and Amazon Prime. The objective of this analysis is to derive insights from Rockbusters customer sales data and provide recommendations on how to establish the online rental service. 
 
 ## Data
 
